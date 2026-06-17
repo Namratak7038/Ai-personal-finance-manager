@@ -1,0 +1,6 @@
+{
+  "name": "AI Personal Expense Tracker",
+  "description": "A modern AI-powered Personal Expense Tracker with smart recurring templates, budget prediction, goal planner, family sharing, receipt OCR scanner, chatbot and offline-first capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
